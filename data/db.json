@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing Email",
+      "details": "lorem ipsum dolor",
+      "complete": true
+    },
+    {
+      "title": "Fuck Toma",
+      "details": "Fuck her Ass. Then cum inside it, make it creamy and juicy.",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Play Football",
+      "details": "Let's play football, but instead of kicking the football, kick the players.",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
